@@ -1,5 +1,5 @@
 ---
-layout: docsES
+layout: docs
 prelink: /es/docs/index
 ---
 
